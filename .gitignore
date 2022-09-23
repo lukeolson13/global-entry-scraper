@@ -1,2 +1,5 @@
 __pycache__/
-config.py
+*.pyc
+secrets.py
+env
+.idea
